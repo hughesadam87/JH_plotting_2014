@@ -1,5 +1,5 @@
-John Hunter 2014 Memorial Plotting Contest
-==========================================
+John Hunter 2014 Excellence in Plotting Submission
+==================================================
 
 - Adam Hughes (hugadams@gwmail.gwu.edu)
 
@@ -8,7 +8,16 @@ John Hunter 2014 Memorial Plotting Contest
 - 3/21/14
 
 
-See full submission as IPython Notebook in repo.  PDF and .png versions of plots are included as well.
+`View this submission in notebook form`_.  PDF and .png versions of plots are included as well.
+
+.. _`View this submission in notebook form` : http://nbviewer.ipython.org/github/hugadams/JH_plotting_2014/blob/master/Hughes_jh2014.ipynb
+
+.. image:: final_orange.png
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: left
 
 Abstract
 --------
